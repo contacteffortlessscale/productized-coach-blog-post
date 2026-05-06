@@ -1,0 +1,65 @@
+# Productized Coach Blog
+# Welcoming AI crawlers and traditional search engines for maximum discoverability.
+
+User-agent: *
+Allow: /
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Google AI Overviews / Gemini training
+User-agent: Google-Extended
+Allow: /
+
+# Common Crawl (feeds many LLMs)
+User-agent: CCBot
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Mistral
+User-agent: MistralAI-User
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+Sitemap: https://blog.productizedcoach.com/sitemap-index.xml

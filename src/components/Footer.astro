@@ -1,0 +1,55 @@
+---
+import { SITE } from '../config';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="mt-24 bg-primary text-seasalt">
+  <div class="mx-auto max-w-5xl px-5 py-12">
+    <div class="grid gap-10 md:grid-cols-3">
+      <div>
+        <img src="/logos/full-white.svg" alt={`${SITE.name} logo`} class="h-10 w-auto" />
+        <p class="mt-4 max-w-xs text-sm text-seasalt/80">
+          Build a coaching business on your own terms. Install semi-passive income streams that bring in pre-sold clients 24/7.
+        </p>
+      </div>
+
+      <div>
+        <h3 class="font-heading text-base font-bold text-seasalt">Connect</h3>
+        <ul class="mt-4 space-y-2 text-sm">
+          <li><a href={SITE.social.youtube} class="text-seasalt/80 hover:text-accent-light">YouTube</a></li>
+          <li><a href={SITE.social.instagram} class="text-seasalt/80 hover:text-accent-light">Instagram</a></li>
+          <li><a href={SITE.social.facebook} class="text-seasalt/80 hover:text-accent-light">Facebook</a></li>
+          <li>
+            <a href={SITE.social.skool} class="text-seasalt/80 hover:text-accent-light">
+              Free Skool Community
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="font-heading text-base font-bold text-seasalt">Tools</h3>
+        <ul class="mt-4 space-y-2 text-sm">
+          <li>
+            <a href={SITE.mainSiteUrl} class="text-seasalt/80 hover:text-accent-light">
+              Productized Coach
+            </a>
+          </li>
+          <li>
+            <a href={SITE.social.funnels} class="text-seasalt/80 hover:text-accent-light">
+              AZ Funnels
+            </a>
+          </li>
+          <li>
+            <a href="/rss.xml" class="text-seasalt/80 hover:text-accent-light">RSS Feed</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="mt-10 border-t border-seasalt/10 pt-6 text-xs text-seasalt/60">
+      &copy; {year} {SITE.name}. All rights reserved.
+    </div>
+  </div>
+</footer>

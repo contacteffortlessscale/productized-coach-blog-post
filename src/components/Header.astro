@@ -1,0 +1,25 @@
+---
+import { SITE } from '../config';
+---
+
+<header class="border-b border-muted/20 bg-white">
+  <div class="mx-auto flex max-w-5xl items-center justify-between px-5 py-4 md:py-5">
+    <a href="/" class="flex items-center gap-3" aria-label={`${SITE.name} home`}>
+      <img src="/logos/emblem-dark-green.svg" alt="" width="40" height="40" class="h-10 w-10" />
+      <span class="font-heading text-lg font-bold text-primary md:text-xl">
+        {SITE.name}
+      </span>
+    </a>
+
+    <nav aria-label="Primary">
+      <ul class="flex items-center gap-5 text-sm font-medium md:gap-8 md:text-base">
+        <li>
+          <a href="/" class="text-jet hover:text-secondary">Blog</a>
+        </li>
+        <li>
+          <a href={SITE.mainSiteUrl} class="text-jet hover:text-secondary">Main Site</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>

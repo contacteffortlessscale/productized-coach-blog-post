@@ -1,0 +1,66 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-primary: #013121;
+  --color-secondary: #1C6E42;
+  --color-jet: #32312E;
+  --color-seasalt: #F8F7F5;
+  --color-accent: #498B68;
+  --color-accent-light: #84C2A1;
+  --color-muted: #968F8E;
+
+  --font-heading: "Libre Baskerville", Georgia, serif;
+  --font-sans: "Work Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: var(--color-jet);
+    background-color: var(--color-seasalt);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    color: var(--color-primary);
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  a {
+    color: var(--color-secondary);
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: var(--color-accent);
+  }
+}
+
+.prose {
+  --tw-prose-body: var(--color-jet);
+  --tw-prose-headings: var(--color-primary);
+  --tw-prose-links: var(--color-secondary);
+  --tw-prose-bold: var(--color-primary);
+  --tw-prose-quotes: var(--color-jet);
+  --tw-prose-quote-borders: var(--color-accent-light);
+  --tw-prose-bullets: var(--color-accent);
+  --tw-prose-counters: var(--color-accent);
+  --tw-prose-hr: var(--color-muted);
+  --tw-prose-code: var(--color-primary);
+  --tw-prose-pre-bg: #0a1f17;
+  --tw-prose-pre-code: #e6f1ea;
+}
+
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  font-family: var(--font-heading);
+}
+
+.prose a {
+  text-decoration: underline;
+  text-decoration-color: var(--color-accent-light);
+  text-underline-offset: 3px;
+}
