@@ -4,6 +4,18 @@ description: "AI is making generic coaching free. The coaches who win in the nex
 pubDate: 2026-05-07
 author: "Zac Hansen"
 tags: ["productized coaching", "category of one", "positioning", "ai", "mechanisms"]
+tldr: "AI is making generic coaching free. The coaches who keep winning all have one trait — a Category of One — a single named mechanism their buyers use as the default term. It is how you stop competing with ChatGPT and start owning a piece of language."
+faq:
+  - question: "What is a Category of One in coaching?"
+    answer: "A Category of One is a coaching business with one named mechanism that buyers in the audience use as their default term. When prospects stop saying 'Facebook ads' and start saying 'evergreen ads,' that signals a Category of One. The mechanism belongs to one person, one business, one specific way of doing the work."
+  - question: "How is AI commoditizing coaches?"
+    answer: "ChatGPT can produce a passable answer to most generic coaching questions in 30 seconds. The new floor is free advice that sounds competent. Coaches selling generic frameworks now compete directly with that floor and lose on price. The coaches who keep winning are not selling generic frameworks. They are selling a named thing nobody else has put a name on."
+  - question: "Can a clever name or acronym become a Category of One?"
+    answer: "No. Clever names confuse buyers. The names that work sound obvious — like the field has always called it that. Two words is the bar. Three on a long day. If your buyers cannot say it back to you a week after hearing it, you do not have one yet."
+  - question: "How do I know if I have a Category of One?"
+    answer: "Listen to your buyers. When they refer prospects to you using your mechanism's name without being asked, you have one. When they email you asking about your specific mechanism by name, you have one. If they still describe what you do using the generic industry term, you do not."
+  - question: "Why won't posting more content beat AI commoditization?"
+    answer: "Out-volume strategies compete on the same axis where AI is strongest — generating more content. The coaches who keep winning compete on a different axis: a named mechanism that came out of their specific work with specific clients. AI cannot replicate that origin story. It can only summarize what already exists."
 ---
 
 Someone is asking ChatGPT what you charge $5,000 for.
