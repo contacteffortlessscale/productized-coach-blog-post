@@ -1,7 +1,7 @@
 ---
 title: "Most Coaches Have 3 Businesses. The Ones Who Win Have 1 Container."
 description: "Coaches scale by adding offers — and accidentally end up running 3 businesses at once. The ones who keep winning consolidate everything into 1 container with 3 doors. Here is the diagnosis."
-pubDate: 2026-05-07
+pubDate: 2026-05-11
 author: "Zac Hansen"
 tags: ["productized coaching", "coaching business", "offer design", "burnout", "scale"]
 tldr: "Most coaches grow revenue by adding offers — a mastermind here, a course there, a 1-on-1 program over there. Each new offer becomes its own business with its own community, support, and portal. The coaches who win consolidate everything into one container. Same room. Same calls. Different levels of access."
