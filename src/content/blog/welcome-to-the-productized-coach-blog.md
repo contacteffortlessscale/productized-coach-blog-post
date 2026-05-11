@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Productized Coach Blog"
 description: "A new home for the Productized Coach methodology — written for the coach who wants semi-passive income, pre-sold buyers, and a 10–20 hour work week."
-pubDate: 2026-05-07
+pubDate: 2026-04-28
 author: "Zac Hansen"
 tags: ["productized coaching", "intro", "methodology"]
 ---

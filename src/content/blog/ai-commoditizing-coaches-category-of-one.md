@@ -1,7 +1,7 @@
 ---
 title: "AI Is Commoditizing Coaches. Here's the One Thing It Can't Touch."
 description: "AI is making generic coaching free. The coaches who win in the next two years all share one thing. It is not content volume."
-pubDate: 2026-05-07
+pubDate: 2026-05-05
 author: "Zac Hansen"
 tags: ["productized coaching", "category of one", "positioning", "ai", "mechanisms"]
 tldr: "AI is making generic coaching free. The coaches who keep winning all have one trait — a Category of One — a single named mechanism their buyers use as the default term. It is how you stop competing with ChatGPT and start owning a piece of language."
