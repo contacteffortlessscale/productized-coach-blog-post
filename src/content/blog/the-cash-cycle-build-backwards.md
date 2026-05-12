@@ -3,7 +3,7 @@ title: "Most Coaches Build Their Business in the Wrong Order"
 subtitle: "Design the order, not just the offers."
 description: "Coaches start with $27 micro offers and hope to upsell. The ones who scale build the order in reverse. Premium first. Micros last. Here is why."
 pubDate: 2026-05-08
-author: "Zac Hansen"
+author: "Productized Coach Team"
 tags: ["productized coaching", "cash cycle", "offer design", "scaling", "funnel order"]
 tldr: "Most coaches launch a $27 micro offer, hope it works, then scramble to build something to upsell buyers into. The coaches who scale build the order in reverse. Premium recurring offer first. Mid-ticket workshops second. Micro offers last. Every dollar earned at the bottom of the funnel already knows where it is going."
 faq:

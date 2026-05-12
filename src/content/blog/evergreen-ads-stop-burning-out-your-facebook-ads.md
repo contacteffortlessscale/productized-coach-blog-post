@@ -3,7 +3,7 @@ title: "Most Coaches Burn Their Ads Out in a Week. The Ones Who Scale Run Theirs
 subtitle: "Evergreen Ads run on the algorithm, not your attention."
 description: "Most coaches launch a Facebook ad and watch it die in 7 days. The ones who scale run the same ad for months without touching the dials. Here is what they do differently."
 pubDate: 2026-05-14
-author: "Zac Hansen"
+author: "Productized Coach Team"
 tags: ["productized coaching", "evergreen ads", "facebook ads", "paid traffic", "client acquisition"]
 tldr: "Most coaches treat ads like a daily babysitting job. They check the dashboard, toggle the dials, kill what is not working. Within a week the ad is dead and a new one has to launch. The coaches who scale run the same ad for months without touching anything. The difference is not budget. It is what goes in the ad before it ever launches."
 faq:

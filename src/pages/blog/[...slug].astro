@@ -98,7 +98,9 @@ const faqSchema = post.data.faq && post.data.faq.length > 0
         </p>
       )}
       <p class="mt-5 text-lg text-jet/80">{post.data.description}</p>
-      <p class="mt-6 text-sm text-jet/60">By {post.data.author}</p>
+      <p class="mt-6 text-sm text-jet/60">
+        By {post.data.author} <span class="text-muted">·</span> Based on the teachings of Zac Hansen
+      </p>
       {post.data.tags.length > 0 && (
         <div class="mt-4 flex flex-wrap gap-2">
           {post.data.tags.map((tag) => (

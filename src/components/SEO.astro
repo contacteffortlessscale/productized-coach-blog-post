@@ -47,8 +47,13 @@ const articleSchema = article
       datePublished: article.publishedTime.toISOString(),
       dateModified: (article.modifiedTime ?? article.publishedTime).toISOString(),
       author: {
-        '@type': 'Person',
+        '@type': 'Organization',
         name: article.author,
+        url: SITE.mainSiteUrl,
+      },
+      creator: {
+        '@type': 'Person',
+        name: SITE.author.name,
         url: SITE.mainSiteUrl,
       },
       publisher: {
