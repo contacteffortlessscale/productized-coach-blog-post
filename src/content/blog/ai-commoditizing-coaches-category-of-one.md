@@ -1,5 +1,6 @@
 ---
 title: "AI Is Commoditizing Coaches. Here's the One Thing It Can't Touch."
+subtitle: "The new floor is free advice that sounds competent. Here is what survives."
 description: "AI is making generic coaching free. The coaches who win in the next two years all share one thing. It is not content volume."
 pubDate: 2026-05-05
 author: "Zac Hansen"

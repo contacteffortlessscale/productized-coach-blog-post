@@ -1,5 +1,6 @@
 ---
 title: "Most Coaches Have 3 Businesses. The Ones Who Win Have 1 Container."
+subtitle: "Coaches scale revenue by adding offers. The ones who win subtract."
 description: "Coaches scale by adding offers — and accidentally end up running 3 businesses at once. The ones who keep winning consolidate everything into 1 container with 3 doors. Here is the diagnosis."
 pubDate: 2026-05-11
 author: "Zac Hansen"

@@ -1,0 +1,50 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  posts: CollectionEntry<'blog'>[];
+}
+
+const { posts } = Astro.props;
+
+const dateFormatter = new Intl.DateTimeFormat('en-US', {
+  year: 'numeric',
+  month: 'short',
+  day: 'numeric',
+});
+---
+
+{posts.length > 0 && (
+  <section class="mt-16" aria-labelledby="related-heading">
+    <h2 id="related-heading" class="font-heading text-2xl text-primary md:text-3xl">
+      Keep reading
+    </h2>
+    <ul class="mt-6 grid gap-6 md:grid-cols-3">
+      {posts.map((post) => (
+        <li class="group rounded-xl border border-muted/30 bg-white p-5 transition-shadow hover:shadow-md">
+          <a href={`/blog/${post.id}/`} class="block">
+            {post.data.heroImage && (
+              <div class="mb-4 overflow-hidden rounded-lg">
+                <img
+                  src={post.data.heroImage}
+                  alt=""
+                  width="400"
+                  height="266"
+                  loading="lazy"
+                  class="aspect-[3/2] w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                />
+              </div>
+            )}
+            <p class="text-xs uppercase tracking-wide text-accent">
+              {dateFormatter.format(post.data.pubDate)}
+            </p>
+            <h3 class="mt-2 font-heading text-lg font-bold leading-tight text-primary group-hover:text-secondary">
+              {post.data.title}
+            </h3>
+            <p class="mt-2 text-sm leading-relaxed text-jet/80">{post.data.description}</p>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
