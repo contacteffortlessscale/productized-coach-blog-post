@@ -3,7 +3,6 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import MidArticleCTA from '../../components/MidArticleCTA.astro';
-import AuthorCard from '../../components/AuthorCard.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import { estimateReadTime } from '../../lib/readTime';
 
@@ -149,8 +148,6 @@ const faqSchema = post.data.faq && post.data.faq.length > 0
         </div>
       </section>
     )}
-
-    <AuthorCard author={post.data.author} />
 
     <RelatedPosts posts={related} />
 
