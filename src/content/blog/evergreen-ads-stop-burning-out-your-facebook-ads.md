@@ -136,6 +136,6 @@ It is a specific structure. Three or four of its elements at minimum. All of the
 
 There is a precise structure for what goes into an Evergreen Ad and the order it goes in. We walk through it inside our ad workshops, and rebuilding the ad structure is the first thing we audit when a new client joins the catalyst with a burning ad account.
 
-If you want to start now, the [free Skool community](https://www.skool.com/sell-while-you-sleep/about) has members posting their Evergreen Ad drafts for feedback. Drop a paragraph of your current ad copy and ask the room what is wrong with it.
+If you want to start now, the [free Skool community](https://www.skool.com/sell-while-you-sleep/about?ref=132e6c3c5e82402f92e9d5f928666153) has members posting their Evergreen Ad drafts for feedback. Drop a paragraph of your current ad copy and ask the room what is wrong with it.
 
 They will tell you.

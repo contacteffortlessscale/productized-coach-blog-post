@@ -13,7 +13,7 @@ export const SITE = {
     youtube: 'https://www.youtube.com/@thezachansen',
     instagram: 'https://www.instagram.com/productizedcoach/',
     facebook: 'https://www.facebook.com/productizedcoach',
-    skool: 'https://www.skool.com/sell-while-you-sleep/about',
+    skool: 'https://www.skool.com/sell-while-you-sleep/about?ref=132e6c3c5e82402f92e9d5f928666153',
     funnels: 'https://azfunnels.app',
   },
   ogImage: '/logos/full-dark-green.svg',
