@@ -28,6 +28,17 @@
     background-color: var(--color-seasalt);
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
+    font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  }
+
+  /* Subtle radial wash of brand light at the very top of the page for editorial depth */
+  body {
+    background-image:
+      radial-gradient(ellipse 1200px 600px at 50% -100px, rgba(132, 194, 161, 0.18), transparent 70%),
+      radial-gradient(ellipse 600px 400px at 100% 200px, rgba(157, 217, 185, 0.12), transparent 60%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -105,6 +116,10 @@
 }
 
 /* Magazine-style numbered section labels above each H2 */
+.prose h2 {
+  position: relative;
+}
+
 .prose h2::before {
   content: counter(section, decimal-leading-zero);
   display: block;
@@ -115,6 +130,20 @@
   color: var(--color-accent);
   margin-bottom: 0.65em;
   text-transform: uppercase;
+}
+
+/* Three-dot ornament between sections (skips the first H2) */
+.prose h2:not(:first-of-type)::after {
+  content: "";
+  position: absolute;
+  top: -2em;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 1px;
+  background-image: radial-gradient(circle, var(--color-accent-light) 1.5px, transparent 1.5px);
+  background-size: 20px 1px;
+  background-repeat: repeat-x;
 }
 
 .prose h3 {
@@ -129,11 +158,41 @@
   text-decoration-color: var(--color-accent-light);
   text-decoration-thickness: 2px;
   text-underline-offset: 4px;
-  transition: text-decoration-color 0.15s ease;
+  transition: text-decoration-color 0.2s ease, color 0.2s ease;
 }
 
 .prose a:hover {
   text-decoration-color: var(--color-secondary);
+  color: var(--color-primary);
+}
+
+/* Animated underline for non-prose links */
+.link-animated {
+  position: relative;
+  display: inline-block;
+}
+.link-animated::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 1.5px;
+  background: var(--color-accent);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s ease;
+}
+.link-animated:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+/* Focus ring polish */
+*:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+  border-radius: 2px;
 }
 
 /* Lead paragraph — larger, more editorial weight */

@@ -2,22 +2,59 @@
 import { SITE } from '../config';
 ---
 
-<header class="border-b border-muted/20 bg-white">
-  <div class="mx-auto flex max-w-5xl items-center justify-between px-5 py-4 md:py-5">
-    <a href="/" class="flex items-center gap-3" aria-label={`${SITE.name} home`}>
-      <img src="/logos/emblem-dark-green.svg" alt="" width="40" height="40" class="h-10 w-10" />
-      <span class="font-heading text-lg font-bold text-primary md:text-xl">
-        {SITE.name}
-      </span>
+<header
+  class="sticky top-0 z-40 border-b border-muted/20 bg-seasalt/85 backdrop-blur-md transition-colors"
+>
+  <div class="mx-auto flex max-w-7xl items-center justify-between gap-6 px-5 py-4 md:py-5 lg:px-8">
+    <a
+      href="/"
+      class="group flex items-center gap-3"
+      aria-label={`${SITE.name} home`}
+    >
+      <img
+        src="/logos/emblem-dark-green.svg"
+        alt=""
+        width="40"
+        height="40"
+        class="h-9 w-9 transition-transform duration-300 group-hover:rotate-3 md:h-10 md:w-10"
+      />
+      <div class="flex flex-col leading-none">
+        <span class="font-heading text-base font-bold text-primary md:text-lg">
+          {SITE.name}
+        </span>
+        <span
+          class="mt-0.5 hidden text-[10px] font-semibold uppercase tracking-[0.2em] text-accent md:block"
+        >
+          The Journal
+        </span>
+      </div>
     </a>
 
     <nav aria-label="Primary">
-      <ul class="flex items-center gap-5 text-sm font-medium md:gap-8 md:text-base">
+      <ul class="flex items-center gap-5 text-sm font-medium md:gap-7">
         <li>
-          <a href="/" class="text-jet hover:text-secondary">Blog</a>
+          <a
+            href="/"
+            class="relative text-jet/85 transition-colors hover:text-primary"
+          >
+            Articles
+          </a>
         </li>
         <li>
-          <a href={SITE.mainSiteUrl} class="text-jet hover:text-secondary">Main Site</a>
+          <a
+            href={SITE.mainSiteUrl}
+            class="relative text-jet/85 transition-colors hover:text-primary"
+          >
+            Main Site
+          </a>
+        </li>
+        <li>
+          <a
+            href={SITE.social.skool}
+            class="rounded-full bg-primary px-4 py-2 text-xs font-semibold uppercase tracking-wider text-seasalt transition-colors hover:bg-secondary md:text-sm md:normal-case md:tracking-normal"
+          >
+            Join Free
+          </a>
         </li>
       </ul>
     </nav>
