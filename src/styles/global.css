@@ -2,13 +2,20 @@
 @plugin "@tailwindcss/typography";
 
 @theme {
-  --color-primary: #013121;
-  --color-secondary: #1C6E42;
-  --color-jet: #32312E;
-  --color-seasalt: #F8F7F5;
-  --color-accent: #498B68;
-  --color-accent-light: #84C2A1;
-  --color-muted: #968F8E;
+  /* Productized Coach official brand palette
+     Source: github.com/Zachansen/productized-coach-brand-kit */
+
+  /* Main palette */
+  --color-primary: #013121;        /* Dark Green */
+  --color-secondary: #1C6E42;      /* Dark Spring Green */
+  --color-jet: #32312E;            /* Body text */
+  --color-seasalt: #F8F7F5;        /* Light background */
+
+  /* Extended palette */
+  --color-accent: #498B68;         /* Sea Green */
+  --color-accent-light: #84C2A1;   /* Cambridge Blue */
+  --color-celadon: #9DD9B9;        /* Celadon — success / light accent */
+  --color-muted: #968F8E;          /* Taupe Gray */
 
   --font-heading: "Libre Baskerville", Georgia, serif;
   --font-sans: "Work Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -58,8 +65,8 @@
   --tw-prose-counters: var(--color-accent);
   --tw-prose-hr: var(--color-muted);
   --tw-prose-code: var(--color-primary);
-  --tw-prose-pre-bg: #0a1f17;
-  --tw-prose-pre-code: #e6f1ea;
+  --tw-prose-pre-bg: var(--color-primary);  /* Dark Green for code blocks */
+  --tw-prose-pre-code: var(--color-seasalt);
 
   font-size: 1.1875rem;          /* ~19px body for editorial readability */
   line-height: 1.75;
