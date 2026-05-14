@@ -43,6 +43,8 @@ const SUBJECT_OVERRIDES = {
     'A simple geometric open doorway or arched threshold with soft warm light spilling through from the other side. Conceptual visual metaphor for new beginnings and an invitation inside.',
   'evergreen-ads-stop-burning-out-your-facebook-ads':
     'A single tall, steady evergreen pine tree standing alone on a gentle hillside while smaller deciduous trees around it have lost their leaves. Subtle indicators of multiple seasons or time passing across the same scene. Conceptual visual metaphor for an ad that endures and keeps producing while everything else around it burns out.',
+  'get-paid-to-create':
+    'A minimalist composition showing a flow: on the left, a stack of coin-like circles or a payment receipt; in the center, an arrow or pathway; on the right, an open empty notebook page or microphone stand with light beaming onto it. The flow goes from payment to creation, not creation to payment. Conceptual visual metaphor for being paid before building.',
 };
 
 function buildPrompt(slug, frontmatter) {
