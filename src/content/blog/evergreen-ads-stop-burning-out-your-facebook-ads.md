@@ -1,7 +1,5 @@
 ---
-title: >-
-  Most Coaches Burn Their Ads Out in a Week. The Ones Who Scale Run Theirs for
-  Months.
+title: "The Evergreen Ad"
 subtitle: 'Evergreen Ads run on the algorithm, not your attention.'
 description: >-
   Most coaches launch a Facebook ad and watch it die in 7 days. The ones who

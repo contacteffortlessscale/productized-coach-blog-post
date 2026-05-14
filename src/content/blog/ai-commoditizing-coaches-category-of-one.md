@@ -1,5 +1,5 @@
 ---
-title: AI Is Commoditizing Coaches. Here's the One Thing It Can't Touch.
+title: "A Category of One"
 subtitle: The new floor is free advice that sounds competent. Here is what survives.
 description: >-
   AI is making generic coaching free. The coaches who win in the next two years

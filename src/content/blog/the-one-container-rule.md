@@ -1,5 +1,5 @@
 ---
-title: Most Coaches Have 3 Businesses. The Ones Who Win Have 1 Container.
+title: "The One Container Rule"
 subtitle: Coaches scale revenue by adding offers. The ones who win subtract.
 description: >-
   Coaches scale by adding offers — and accidentally end up running 3 businesses

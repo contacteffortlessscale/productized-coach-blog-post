@@ -1,5 +1,5 @@
 ---
-title: Most Coaches Build Their Business in the Wrong Order
+title: "Build Your Business Backwards"
 subtitle: 'Design the order, not just the offers.'
 description: >-
   Coaches start with $27 micro offers and hope to upsell. The ones who scale
