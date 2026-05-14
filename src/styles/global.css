@@ -71,6 +71,7 @@
   font-size: 1.1875rem;          /* ~19px body for editorial readability */
   line-height: 1.75;
   color: var(--color-jet);
+  counter-reset: section;
 }
 
 @media (min-width: 768px) {
@@ -94,12 +95,26 @@
   margin-top: 2.5em;
   margin-bottom: 0.75em;
   letter-spacing: -0.015em;
+  counter-increment: section;
 }
 
 @media (min-width: 768px) {
   .prose h2 {
     font-size: 2.25rem;
   }
+}
+
+/* Magazine-style numbered section labels above each H2 */
+.prose h2::before {
+  content: counter(section, decimal-leading-zero);
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  color: var(--color-accent);
+  margin-bottom: 0.65em;
+  text-transform: uppercase;
 }
 
 .prose h3 {
@@ -121,6 +136,21 @@
   text-decoration-color: var(--color-secondary);
 }
 
+/* Lead paragraph — larger, more editorial weight */
+.prose > p:first-of-type {
+  font-size: 1.3125rem;
+  line-height: 1.6;
+  color: var(--color-primary);
+  font-weight: 400;
+}
+
+@media (min-width: 768px) {
+  .prose > p:first-of-type {
+    font-size: 1.5rem;
+    line-height: 1.55;
+  }
+}
+
 /* Drop cap on the first paragraph of the body */
 .prose > p:first-of-type::first-letter {
   font-family: var(--font-heading);
@@ -128,14 +158,14 @@
   font-size: 4.5rem;
   line-height: 0.85;
   float: left;
-  margin: 0.35rem 0.75rem 0 0;
+  margin: 0.4rem 0.75rem 0 0;
   color: var(--color-primary);
 }
 
 @media (min-width: 768px) {
   .prose > p:first-of-type::first-letter {
-    font-size: 5.5rem;
-    margin-right: 1rem;
+    font-size: 5.75rem;
+    margin: 0.4rem 1rem 0 0;
   }
 }
 

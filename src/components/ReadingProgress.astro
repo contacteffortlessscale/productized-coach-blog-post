@@ -1,0 +1,41 @@
+---
+// Sticky reading progress bar that fills as the reader scrolls.
+// Uses CSS scroll-driven animations where supported, with a JS fallback for older browsers.
+---
+
+<div
+  id="reading-progress"
+  class="fixed inset-x-0 top-0 z-50 h-1 origin-left scale-x-0 bg-accent will-change-transform"
+  aria-hidden="true"
+></div>
+
+<style>
+  @supports (animation-timeline: scroll(root)) {
+    #reading-progress {
+      animation: reading-progress-grow linear;
+      animation-timeline: scroll(root block);
+    }
+    @keyframes reading-progress-grow {
+      to {
+        transform: scaleX(1);
+      }
+    }
+  }
+</style>
+
+<script>
+  // Fallback for browsers without scroll-driven animations.
+  const bar = document.getElementById('reading-progress');
+  if (bar && !CSS.supports('animation-timeline: scroll(root)')) {
+    const update = () => {
+      const doc = document.documentElement;
+      const scrolled = doc.scrollTop;
+      const max = doc.scrollHeight - doc.clientHeight;
+      const progress = max > 0 ? Math.min(1, scrolled / max) : 0;
+      bar.style.transform = `scaleX(${progress})`;
+    };
+    update();
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+  }
+</script>
