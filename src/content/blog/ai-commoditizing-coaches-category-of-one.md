@@ -122,8 +122,4 @@ They will be the ones whose buyers say their mechanism's name back to them witho
 
 There is a method for finding yours. We walk through it inside our productized offer workshops, and it is the first thing we work on when a new client joins the catalyst.
 
-If you want to start working on yours now, the [free Skool community](https://www.skool.com/sell-while-you-sleep/about) has weekly threads where members post their two-word drafts and get feedback.
-
-Drop yours in.
-
-We will tell you if it lands.
+The [free Skool community](https://www.skool.com/sell-while-you-sleep/about) is the doorway in.

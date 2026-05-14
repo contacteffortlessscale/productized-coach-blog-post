@@ -138,8 +138,4 @@ Your nights and weekends come back.
 
 There is a precise structure for what the workshop looks like, how to price it, how to sell it before it exists, and how to ascend buyers into the rest of your business. We walk through the whole playbook inside our Mid Ticket Freedom workshops, and it is one of the first plays we run when a new client joins the catalyst.
 
-If you want to see the format in the wild, the [free Skool community](https://www.skool.com/sell-while-you-sleep/about) has coaches posting their mid-ticket launch results in real time.
-
-Read a couple.
-
-Then ask what you should launch next week.
+The [free Skool community](https://www.skool.com/sell-while-you-sleep/about) is the doorway in.
