@@ -45,7 +45,7 @@ They are not in the dashboard every day.
 
 They open their ad account once a week to see how the buyers are doing.
 
-The ad does the work. They get on with their business.
+> The ad does the work. They get on with their business.
 
 This is what an Evergreen Ad is.
 

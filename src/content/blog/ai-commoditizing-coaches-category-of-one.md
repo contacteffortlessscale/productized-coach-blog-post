@@ -63,7 +63,7 @@ Your sales conversations get shorter.
 
 Your buyers refer people using your words.
 
-You stop being "a coach." You become a noun.
+> You stop being "a coach." You become a noun.
 
 ## What it is NOT
 

@@ -61,7 +61,7 @@ Second: mid-ticket workshops that ladder up into the container.
 
 Third: micro offers that ladder up into the mid-ticket.
 
-Every dollar earned at the bottom already knows where it is going.
+> Every dollar earned at the bottom already knows where it is going.
 
 ## Why working backwards changes everything
 

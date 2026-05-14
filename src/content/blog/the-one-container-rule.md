@@ -47,9 +47,7 @@ They do the opposite.
 
 ## The reframe
 
-You do not need three businesses.
-
-You need one container with three doors.
+> You do not need three businesses. You need one container with three doors.
 
 Same room. Same calls. Same community. Same support workflow.
 
