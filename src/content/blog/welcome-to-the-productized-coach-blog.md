@@ -43,7 +43,7 @@ If that is you, you are in the right place.
 
 New here? Two things:
 
-1. Join the [free Skool community](https://www.skool.com/sell-while-you-sleep/about?ref=132e6c3c5e82402f92e9d5f928666153) where coaches share what is working right now.
+1. Join the [free Skool community](https://www.skool.com/sell-while-you-sleep/about) where coaches share what is working right now.
 2. Subscribe via [RSS](/rss.xml) so new posts hit your reader the moment they are live.
 
 More posts soon.

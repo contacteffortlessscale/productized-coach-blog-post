@@ -139,6 +139,6 @@ Clients upgrade themselves. They are already in the room. They see the next tier
 
 There is a precise way to design the levels inside a container so the math actually works. We walk through it inside our productized offer workshops, and it is one of the first things we audit when a new client joins the catalyst.
 
-If you want to start now, the [free Skool community](https://www.skool.com/sell-while-you-sleep/about?ref=132e6c3c5e82402f92e9d5f928666153) has members at every stage of this consolidation. Drop a description of your current setup and ask the room.
+If you want to start now, the [free Skool community](https://www.skool.com/sell-while-you-sleep/about) has members at every stage of this consolidation. Drop a description of your current setup and ask the room.
 
 They will tell you which doors to merge first.

@@ -137,7 +137,7 @@ The fix, when he finally found it, took 18 months and one specific sequence.
 
 There is a precise design for what the container looks like, what the mid-ticket workshop looks like, and how the micro feeds them. We walk through the whole sequence inside our productized offer workshops, and the order is one of the first things we audit when a new client joins the catalyst.
 
-If you want to start now, the [free Skool community](https://www.skool.com/sell-while-you-sleep/about?ref=132e6c3c5e82402f92e9d5f928666153) has members who have rebuilt their funnel in this order and posted their before/after.
+If you want to start now, the [free Skool community](https://www.skool.com/sell-while-you-sleep/about) has members who have rebuilt their funnel in this order and posted their before/after.
 
 Read what they did.
 
