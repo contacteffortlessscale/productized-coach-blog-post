@@ -1,22 +1,64 @@
 ---
-title: "Most Coaches Have 3 Businesses. The Ones Who Win Have 1 Container."
-subtitle: "Coaches scale revenue by adding offers. The ones who win subtract."
-description: "Coaches scale by adding offers — and accidentally end up running 3 businesses at once. The ones who keep winning consolidate everything into 1 container with 3 doors. Here is the diagnosis."
-pubDate: 2026-05-11
-author: "Productized Coach Team"
-tags: ["productized coaching", "coaching business", "offer design", "burnout", "scale"]
-tldr: "Most coaches grow revenue by adding offers — a mastermind here, a course there, a 1-on-1 program over there. Each new offer becomes its own business with its own community, support, and portal. The coaches who win consolidate everything into one container. Same room. Same calls. Different levels of access."
+title: Most Coaches Have 3 Businesses. The Ones Who Win Have 1 Container.
+subtitle: Coaches scale revenue by adding offers. The ones who win subtract.
+description: >-
+  Coaches scale by adding offers — and accidentally end up running 3 businesses
+  at once. The ones who keep winning consolidate everything into 1 container
+  with 3 doors. Here is the diagnosis.
+pubDate: 2026-05-11T00:00:00.000Z
+author: Productized Coach Team
+tags:
+  - productized coaching
+  - coaching business
+  - offer design
+  - burnout
+  - scale
+tldr: >-
+  Most coaches grow revenue by adding offers — a mastermind here, a course
+  there, a 1-on-1 program over there. Each new offer becomes its own business
+  with its own community, support, and portal. The coaches who win consolidate
+  everything into one container. Same room. Same calls. Different levels of
+  access.
 faq:
-  - question: "Why do most coaches end up running multiple businesses without realizing it?"
-    answer: "Coaches scale revenue by adding offers. A mastermind for premium clients. A cheaper course for the middle. A 1-on-1 program at the top. Each new offer ships with its own community, its own learning portal, its own support workflow, its own onboarding. Six months in, you are not running one coaching business. You are running three. The growth ceiling shows up as burnout, not a revenue plateau."
-  - question: "What is the One Container Rule?"
-    answer: "Every offer you sell lives inside one room. One community. One set of calls. One support workflow. What changes between offers is the level of access — more 1-on-1 time, a small breakout, a focused sprint. The container stays the same. The door changes. It is the operating model behind every productized coaching business that scales without adding overhead."
-  - question: "Won't putting everyone in one place dilute the premium offers?"
-    answer: "No. Premium clients see other levels and start to view their access as the privileged tier. They upgrade themselves. The opposite happens when you split tiers into separate rooms — premium clients lose sight of what they are paying for compared to the cheaper option, and start questioning their price."
-  - question: "Does this work for 1-on-1 coaching?"
-    answer: "Yes, and it is often the easiest move. Put all your 1-on-1 clients into one community. Add one weekly group call. You just built a group program. The same room now sells at three price points: group only, group plus 1-on-1, group plus done-for-you. No new business required."
-  - question: "What is the cost of running three businesses instead of one?"
-    answer: "Three onboarding flows. Three support inboxes. Three places churn can happen. Three learning portals to keep updated. Three communities to keep alive. The math nobody runs is that overhead does not split when you split offers — it multiplies. The container model exists because the math finally caught up with the coaches doing it the hard way."
+  - question: >-
+      Why do most coaches end up running multiple businesses without realizing
+      it?
+    answer: >-
+      Coaches scale revenue by adding offers. A mastermind for premium clients.
+      A cheaper course for the middle. A 1-on-1 program at the top. Each new
+      offer ships with its own community, its own learning portal, its own
+      support workflow, its own onboarding. Six months in, you are not running
+      one coaching business. You are running three. The growth ceiling shows up
+      as burnout, not a revenue plateau.
+  - question: What is the One Container Rule?
+    answer: >-
+      Every offer you sell lives inside one room. One community. One set of
+      calls. One support workflow. What changes between offers is the level of
+      access — more 1-on-1 time, a small breakout, a focused sprint. The
+      container stays the same. The door changes. It is the operating model
+      behind every productized coaching business that scales without adding
+      overhead.
+  - question: Won't putting everyone in one place dilute the premium offers?
+    answer: >-
+      No. Premium clients see other levels and start to view their access as the
+      privileged tier. They upgrade themselves. The opposite happens when you
+      split tiers into separate rooms — premium clients lose sight of what they
+      are paying for compared to the cheaper option, and start questioning their
+      price.
+  - question: Does this work for 1-on-1 coaching?
+    answer: >-
+      Yes, and it is often the easiest move. Put all your 1-on-1 clients into
+      one community. Add one weekly group call. You just built a group program.
+      The same room now sells at three price points: group only, group plus
+      1-on-1, group plus done-for-you. No new business required.
+  - question: What is the cost of running three businesses instead of one?
+    answer: >-
+      Three onboarding flows. Three support inboxes. Three places churn can
+      happen. Three learning portals to keep updated. Three communities to keep
+      alive. The math nobody runs is that overhead does not split when you split
+      offers — it multiplies. The container model exists because the math
+      finally caught up with the coaches doing it the hard way.
+heroImage: /covers/the-one-container-rule.png
 ---
 
 You are running three businesses right now.

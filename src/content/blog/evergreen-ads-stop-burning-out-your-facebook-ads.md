@@ -1,22 +1,63 @@
 ---
-title: "Most Coaches Burn Their Ads Out in a Week. The Ones Who Scale Run Theirs for Months."
-subtitle: "Evergreen Ads run on the algorithm, not your attention."
-description: "Most coaches launch a Facebook ad and watch it die in 7 days. The ones who scale run the same ad for months without touching the dials. Here is what they do differently."
-pubDate: 2026-05-14
-author: "Productized Coach Team"
-tags: ["productized coaching", "evergreen ads", "facebook ads", "paid traffic", "client acquisition"]
-tldr: "Most coaches treat ads like a daily babysitting job. They check the dashboard, toggle the dials, kill what is not working. Within a week the ad is dead and a new one has to launch. The coaches who scale run the same ad for months without touching anything. The difference is not budget. It is what goes in the ad before it ever launches."
+title: >-
+  Most Coaches Burn Their Ads Out in a Week. The Ones Who Scale Run Theirs for
+  Months.
+subtitle: 'Evergreen Ads run on the algorithm, not your attention.'
+description: >-
+  Most coaches launch a Facebook ad and watch it die in 7 days. The ones who
+  scale run the same ad for months without touching the dials. Here is what they
+  do differently.
+pubDate: 2026-05-14T00:00:00.000Z
+author: Productized Coach Team
+tags:
+  - productized coaching
+  - evergreen ads
+  - facebook ads
+  - paid traffic
+  - client acquisition
+tldr: >-
+  Most coaches treat ads like a daily babysitting job. They check the dashboard,
+  toggle the dials, kill what is not working. Within a week the ad is dead and a
+  new one has to launch. The coaches who scale run the same ad for months
+  without touching anything. The difference is not budget. It is what goes in
+  the ad before it ever launches.
 faq:
-  - question: "What is an Evergreen Ad?"
-    answer: "An Evergreen Ad is a Facebook or Instagram ad designed to run for months without burning out. It pre-sells the stranger before they hit the sales page, launches as a small family of variants for the algorithm to rotate through, and runs on Meta's algo targeting instead of manual dial-toggling. The result is an ad you can leave alone for 90 days while it brings in buyers."
-  - question: "Why do most coaching ads burn out so fast?"
-    answer: "Most coaches write ads like pitches. The buyer's brain flags them as sales material in two seconds and scrolls past. Even when one ad performs, there is no family of variants for the algorithm to rotate through, so the audience sees the same ad too many times. The coach panics and starts toggling dials. The toggling speeds up the burnout."
-  - question: "Will Evergreen Ads work for cold traffic?"
-    answer: "Yes. That is the use case. Evergreen Ads are designed to pre-sell strangers before they hit a sales page. The ad itself does the warm-up work that a typical funnel would expect from emails or a long sales call. Cold traffic is exactly what they are built for."
-  - question: "Do I need to be a copywriter to write one?"
-    answer: "No. The structure is closer to a checklist than a craft. There are specific elements that go into the ad in a specific order. If you can answer questions about your offer, your buyer's pain, and what makes your process different, you can write the ad. The skill is in the structure, not the prose."
-  - question: "How is this different from a typical Facebook ad?"
-    answer: "A typical ad sells. An Evergreen Ad pre-sells. A typical ad runs for a week before it fatigues. An Evergreen Ad runs for months. A typical ad uses one variant. An Evergreen Ad uses a small family of variants. The difference is not budget or targeting. It is what goes inside the ad before it launches."
+  - question: What is an Evergreen Ad?
+    answer: >-
+      An Evergreen Ad is a Facebook or Instagram ad designed to run for months
+      without burning out. It pre-sells the stranger before they hit the sales
+      page, launches as a small family of variants for the algorithm to rotate
+      through, and runs on Meta's algo targeting instead of manual
+      dial-toggling. The result is an ad you can leave alone for 90 days while
+      it brings in buyers.
+  - question: Why do most coaching ads burn out so fast?
+    answer: >-
+      Most coaches write ads like pitches. The buyer's brain flags them as sales
+      material in two seconds and scrolls past. Even when one ad performs, there
+      is no family of variants for the algorithm to rotate through, so the
+      audience sees the same ad too many times. The coach panics and starts
+      toggling dials. The toggling speeds up the burnout.
+  - question: Will Evergreen Ads work for cold traffic?
+    answer: >-
+      Yes. That is the use case. Evergreen Ads are designed to pre-sell
+      strangers before they hit a sales page. The ad itself does the warm-up
+      work that a typical funnel would expect from emails or a long sales call.
+      Cold traffic is exactly what they are built for.
+  - question: Do I need to be a copywriter to write one?
+    answer: >-
+      No. The structure is closer to a checklist than a craft. There are
+      specific elements that go into the ad in a specific order. If you can
+      answer questions about your offer, your buyer's pain, and what makes your
+      process different, you can write the ad. The skill is in the structure,
+      not the prose.
+  - question: How is this different from a typical Facebook ad?
+    answer: >-
+      A typical ad sells. An Evergreen Ad pre-sells. A typical ad runs for a
+      week before it fatigues. An Evergreen Ad runs for months. A typical ad
+      uses one variant. An Evergreen Ad uses a small family of variants. The
+      difference is not budget or targeting. It is what goes inside the ad
+      before it launches.
+heroImage: /covers/evergreen-ads-stop-burning-out-your-facebook-ads.png
 ---
 
 You launch a Facebook ad on Monday.

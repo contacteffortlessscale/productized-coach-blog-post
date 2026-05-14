@@ -41,6 +41,8 @@ const SUBJECT_OVERRIDES = {
     'A three-tier ascending platform or pyramid structure with subtle directional arrows showing reverse build order (the top tier built first, base tier built last). Conceptual visual metaphor for designing offers in reverse order.',
   'welcome-to-the-productized-coach-blog':
     'A simple geometric open doorway or arched threshold with soft warm light spilling through from the other side. Conceptual visual metaphor for new beginnings and an invitation inside.',
+  'evergreen-ads-stop-burning-out-your-facebook-ads':
+    'A single tall, steady evergreen pine tree standing alone on a gentle hillside while smaller deciduous trees around it have lost their leaves. Subtle indicators of multiple seasons or time passing across the same scene. Conceptual visual metaphor for an ad that endures and keeps producing while everything else around it burns out.',
 };
 
 function buildPrompt(slug, frontmatter) {

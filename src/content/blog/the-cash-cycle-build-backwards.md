@@ -1,22 +1,60 @@
 ---
-title: "Most Coaches Build Their Business in the Wrong Order"
-subtitle: "Design the order, not just the offers."
-description: "Coaches start with $27 micro offers and hope to upsell. The ones who scale build the order in reverse. Premium first. Micros last. Here is why."
-pubDate: 2026-05-08
-author: "Productized Coach Team"
-tags: ["productized coaching", "cash cycle", "offer design", "scaling", "funnel order"]
-tldr: "Most coaches launch a $27 micro offer, hope it works, then scramble to build something to upsell buyers into. The coaches who scale build the order in reverse. Premium recurring offer first. Mid-ticket workshops second. Micro offers last. Every dollar earned at the bottom of the funnel already knows where it is going."
+title: Most Coaches Build Their Business in the Wrong Order
+subtitle: 'Design the order, not just the offers.'
+description: >-
+  Coaches start with $27 micro offers and hope to upsell. The ones who scale
+  build the order in reverse. Premium first. Micros last. Here is why.
+pubDate: 2026-05-08T00:00:00.000Z
+author: Productized Coach Team
+tags:
+  - productized coaching
+  - cash cycle
+  - offer design
+  - scaling
+  - funnel order
+tldr: >-
+  Most coaches launch a $27 micro offer, hope it works, then scramble to build
+  something to upsell buyers into. The coaches who scale build the order in
+  reverse. Premium recurring offer first. Mid-ticket workshops second. Micro
+  offers last. Every dollar earned at the bottom of the funnel already knows
+  where it is going.
 faq:
-  - question: "What is the Cash Cycle?"
-    answer: "The Cash Cycle is the order in which the offers in a productized coaching business get designed and launched. Premium recurring container first. Mid-ticket workshops second. Micro offers last. The sequence matters because every offer is built to feed the one above it. When the design order is right, the funnel comes built in."
-  - question: "Why is building forwards (cheap to expensive) the wrong order?"
-    answer: "When you launch a $27 micro offer first, you do not yet know where your buyers should go next. You scramble to build an upsell after the buyers have already moved on. By the time the back end exists, the buyers who would have used it are gone. Building forwards traps coaches in low-ticket purgatory and forces them to design every next offer in a panic."
-  - question: "What if I do not have a premium recurring offer yet?"
-    answer: "Build one first. Even rough. Even before it is polished. You need a destination on the map before you start filling the road with buyers. The container does not have to be perfect on day one. It just has to exist before the micro offers launch."
-  - question: "Can I rebuild my funnel into this order if I already started with micro offers?"
-    answer: "Yes. It takes a specific sequence and usually a few months, not years, when done right. The coaches who rebuild fastest start the container while the existing micro offer keeps running. The Cash Cycle is fixable late. It is just not optional."
-  - question: "How is the Cash Cycle different from a typical sales funnel?"
-    answer: "A typical funnel is a path through existing offers. The Cash Cycle is the order you design the offers in the first place. Most coaches design offers in isolation and try to bolt a funnel onto them after. The result is offers that do not feed each other. Building in Cash Cycle order means the funnel is baked in from the start."
+  - question: What is the Cash Cycle?
+    answer: >-
+      The Cash Cycle is the order in which the offers in a productized coaching
+      business get designed and launched. Premium recurring container first.
+      Mid-ticket workshops second. Micro offers last. The sequence matters
+      because every offer is built to feed the one above it. When the design
+      order is right, the funnel comes built in.
+  - question: Why is building forwards (cheap to expensive) the wrong order?
+    answer: >-
+      When you launch a $27 micro offer first, you do not yet know where your
+      buyers should go next. You scramble to build an upsell after the buyers
+      have already moved on. By the time the back end exists, the buyers who
+      would have used it are gone. Building forwards traps coaches in low-ticket
+      purgatory and forces them to design every next offer in a panic.
+  - question: What if I do not have a premium recurring offer yet?
+    answer: >-
+      Build one first. Even rough. Even before it is polished. You need a
+      destination on the map before you start filling the road with buyers. The
+      container does not have to be perfect on day one. It just has to exist
+      before the micro offers launch.
+  - question: >-
+      Can I rebuild my funnel into this order if I already started with micro
+      offers?
+    answer: >-
+      Yes. It takes a specific sequence and usually a few months, not years,
+      when done right. The coaches who rebuild fastest start the container while
+      the existing micro offer keeps running. The Cash Cycle is fixable late. It
+      is just not optional.
+  - question: How is the Cash Cycle different from a typical sales funnel?
+    answer: >-
+      A typical funnel is a path through existing offers. The Cash Cycle is the
+      order you design the offers in the first place. Most coaches design offers
+      in isolation and try to bolt a funnel onto them after. The result is
+      offers that do not feed each other. Building in Cash Cycle order means the
+      funnel is baked in from the start.
+heroImage: /covers/the-cash-cycle-build-backwards.png
 ---
 
 Most coaches build their business in this order.

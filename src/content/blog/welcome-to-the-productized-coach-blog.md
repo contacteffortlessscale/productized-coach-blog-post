@@ -1,9 +1,15 @@
 ---
-title: "Welcome to the Productized Coach Blog"
-description: "A new home for the Productized Coach methodology — written for the coach who wants semi-passive income, pre-sold buyers, and a 10–20 hour work week."
-pubDate: 2026-04-28
-author: "Productized Coach Team"
-tags: ["productized coaching", "intro", "methodology"]
+title: Welcome to the Productized Coach Blog
+description: >-
+  A new home for the Productized Coach methodology — written for the coach who
+  wants semi-passive income, pre-sold buyers, and a 10–20 hour work week.
+pubDate: 2026-04-28T00:00:00.000Z
+author: Productized Coach Team
+tags:
+  - productized coaching
+  - intro
+  - methodology
+heroImage: /covers/welcome-to-the-productized-coach-blog.png
 ---
 
 Most coaches trade hours for dollars.
