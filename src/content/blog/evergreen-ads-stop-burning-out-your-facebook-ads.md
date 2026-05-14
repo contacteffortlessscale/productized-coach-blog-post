@@ -5,7 +5,7 @@ description: >-
   Most coaches launch a Facebook ad and watch it die in 7 days. The ones who
   scale run the same ad for months without touching the dials. Here is what they
   do differently.
-pubDate: 2026-05-14T00:00:00.000Z
+pubDate: 2026-05-12T00:00:00.000Z
 author: Productized Coach Team
 tags:
   - productized coaching

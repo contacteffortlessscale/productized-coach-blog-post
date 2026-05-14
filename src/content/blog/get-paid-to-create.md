@@ -4,7 +4,7 @@ subtitle: Sell first. Build second. Stop guessing what people want.
 description: >-
   Coaches build courses nobody asked for, then wonder why nobody buys. The ones
   who scale sell the thing first, then build it. Here is why.
-pubDate: 2026-05-17T00:00:00.000Z
+pubDate: 2026-05-14T00:00:00.000Z
 author: Productized Coach Team
 tags:
   - productized coaching
