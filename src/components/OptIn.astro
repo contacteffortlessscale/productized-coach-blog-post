@@ -1,43 +1,70 @@
 ---
-// GoHighLevel-hosted form, wrapped in our branded card.
+// GoHighLevel hosted form, wrapped in a polished two-column card.
 // The form_embed.js script auto-resizes the iframe to match form content height.
 ---
 
 <aside
   id="opt-in"
-  class="my-16 rounded-2xl bg-primary px-6 py-8 text-seasalt md:px-10 md:py-12"
+  class="relative my-16 overflow-hidden rounded-2xl bg-gradient-to-br from-primary via-primary to-secondary px-6 py-10 text-seasalt shadow-lg md:px-12 md:py-14"
   aria-label="Daily email signup"
 >
-  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-accent-light">
-    Daily emails
-  </p>
-  <h2 class="mt-3 max-w-2xl font-heading text-2xl leading-tight text-seasalt md:text-4xl">
-    One short email a day from Zac.
-  </h2>
-  <p class="mt-4 max-w-2xl text-base leading-relaxed text-seasalt/85 md:text-lg">
-    Plays, frameworks, and behind-the-scenes lessons for coaches building productized
-    businesses. No fluff. Unsubscribe anytime.
-  </p>
+  {/* Decorative accent emblem in the corner */}
+  <div
+    aria-hidden="true"
+    class="pointer-events-none absolute -right-12 -top-12 h-44 w-44 rounded-full bg-accent-light/15 blur-2xl"
+  ></div>
+  <div
+    aria-hidden="true"
+    class="pointer-events-none absolute -bottom-16 -left-16 h-52 w-52 rounded-full bg-celadon/10 blur-3xl"
+  ></div>
 
-  <div class="mt-6 overflow-hidden rounded-lg bg-white" style="min-height:430px">
-    <iframe
-      src="https://api.leadconnectorhq.com/widget/form/sDRaigU38umIRA3L8z5f"
-      style="width:100%;min-height:430px;height:430px;border:none;display:block;background:#fff"
-      id="inline-sDRaigU38umIRA3L8z5f"
-      data-layout={'{"id":"INLINE"}'}
-      data-trigger-type="alwaysShow"
-      data-trigger-value=""
-      data-activation-type="alwaysActivated"
-      data-activation-value=""
-      data-deactivation-type="neverDeactivate"
-      data-deactivation-value=""
-      data-form-name="Productized Coach Blog post Form"
-      data-height="430"
-      data-layout-iframe-id="inline-sDRaigU38umIRA3L8z5f"
-      data-form-id="sDRaigU38umIRA3L8z5f"
-      title="Productized Coach Blog post Form"
-      scrolling="no"
-    ></iframe>
+  <div class="relative grid gap-10 md:grid-cols-2 md:items-center md:gap-12 lg:gap-16">
+    {/* LEFT — copy */}
+    <div>
+      <p class="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.22em] text-accent-light">
+        <span aria-hidden="true" class="inline-block h-px w-6 bg-accent-light"></span>
+        Daily Emails
+      </p>
+      <h2 class="mt-4 font-heading text-3xl leading-[1.1] tracking-tight text-seasalt md:text-4xl lg:text-5xl">
+        One short email a day from <span class="italic text-accent-light">Zac</span>.
+      </h2>
+      <p class="mt-5 max-w-md text-base leading-relaxed text-seasalt/85 md:text-lg">
+        Plays, frameworks, and behind-the-scenes lessons for coaches building productized
+        businesses.
+      </p>
+      <ul class="mt-6 space-y-2 text-sm text-seasalt/75 md:text-base">
+        <li class="flex items-start gap-2">
+          <span aria-hidden="true" class="mt-1 text-accent-light">→</span>
+          <span>No fluff. Two-minute reads.</span>
+        </li>
+        <li class="flex items-start gap-2">
+          <span aria-hidden="true" class="mt-1 text-accent-light">→</span>
+          <span>Unsubscribe anytime.</span>
+        </li>
+      </ul>
+    </div>
+
+    {/* RIGHT — form card */}
+    <div class="rounded-xl bg-white p-2 shadow-xl ring-1 ring-white/10" style="min-height:450px">
+      <iframe
+        src="https://api.leadconnectorhq.com/widget/form/sDRaigU38umIRA3L8z5f"
+        style="width:100%;min-height:430px;height:430px;border:none;display:block;border-radius:0.65rem;background:#fff"
+        id="inline-sDRaigU38umIRA3L8z5f"
+        data-layout={'{"id":"INLINE"}'}
+        data-trigger-type="alwaysShow"
+        data-trigger-value=""
+        data-activation-type="alwaysActivated"
+        data-activation-value=""
+        data-deactivation-type="neverDeactivate"
+        data-deactivation-value=""
+        data-form-name="Productized Coach Blog post Form"
+        data-height="430"
+        data-layout-iframe-id="inline-sDRaigU38umIRA3L8z5f"
+        data-form-id="sDRaigU38umIRA3L8z5f"
+        title="Productized Coach Blog post Form"
+        scrolling="no"
+      ></iframe>
+    </div>
   </div>
 </aside>
 
