@@ -56,6 +56,11 @@ faq:
       difference is not budget or targeting. It is what goes inside the ad
       before it launches.
 heroImage: /covers/evergreen-ads-stop-burning-out-your-facebook-ads.png
+optIn:
+  lead: "Free swipe"
+  heading: "Want the Evergreen Ad swipe?"
+  description: "A one-page breakdown of the exact structure used in ads that have run for months without burning out — what to write, the order it goes in, and what to leave out. Drop your email and I'll send it."
+  buttonText: "Send me the swipe"
 ---
 
 You launch a Facebook ad on Monday.

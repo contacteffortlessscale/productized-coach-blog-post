@@ -6,6 +6,8 @@ import MidArticleCTA from '../../components/MidArticleCTA.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import ReadingProgress from '../../components/ReadingProgress.astro';
 import PostNavigation from '../../components/PostNavigation.astro';
+import YouTubeEmbed from '../../components/YouTubeEmbed.astro';
+import OptIn from '../../components/OptIn.astro';
 import { estimateReadTime } from '../../lib/readTime';
 
 export async function getStaticPaths() {
@@ -156,6 +158,10 @@ const faqSchema = post.data.faq && post.data.faq.length > 0
           </div>
         )}
 
+        {post.data.youtubeId && (
+          <YouTubeEmbed id={post.data.youtubeId} title={post.data.title} />
+        )}
+
         <div class="prose prose-lg max-w-none">
           <Content />
         </div>
@@ -184,6 +190,15 @@ const faqSchema = post.data.faq && post.data.faq.length > 0
               ))}
             </div>
           </section>
+        )}
+
+        {post.data.optIn && (
+          <OptIn
+            heading={post.data.optIn.heading}
+            description={post.data.optIn.description}
+            buttonText={post.data.optIn.buttonText}
+            lead={post.data.optIn.lead}
+          />
         )}
 
         <RelatedPosts posts={related} />

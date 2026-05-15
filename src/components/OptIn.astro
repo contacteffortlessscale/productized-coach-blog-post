@@ -1,0 +1,67 @@
+---
+import { SITE } from '../config';
+
+interface Props {
+  heading: string;
+  description: string;
+  buttonText?: string;
+  lead?: string;
+}
+
+const {
+  heading,
+  description,
+  buttonText = 'Send it to me',
+  lead = 'Free Resource',
+} = Astro.props;
+
+// PUBLIC env var so it inlines at build time. Set in Vercel project settings.
+// Once an email service is wired (ConvertKit, Beehiiv, Kit, etc.), point
+// PUBLIC_OPTIN_ENDPOINT to its form-submit URL. Until then the form posts
+// to a placeholder action that does nothing.
+const formAction = import.meta.env.PUBLIC_OPTIN_ENDPOINT || '#opt-in-not-wired';
+const isWired = formAction !== '#opt-in-not-wired';
+---
+
+<aside
+  id="opt-in"
+  class="my-16 rounded-2xl bg-primary px-6 py-8 text-seasalt md:px-10 md:py-12"
+  aria-label="Free download"
+>
+  <p class="text-xs font-semibold uppercase tracking-[0.2em] text-accent-light">{lead}</p>
+  <h2 class="mt-3 max-w-2xl font-heading text-2xl leading-tight text-seasalt md:text-4xl">
+    {heading}
+  </h2>
+  <p class="mt-4 max-w-2xl text-base leading-relaxed text-seasalt/85 md:text-lg">
+    {description}
+  </p>
+
+  <form
+    action={formAction}
+    method="POST"
+    class="mt-6 flex flex-col gap-3 sm:flex-row sm:items-stretch"
+    data-wired={isWired}
+  >
+    <label class="sr-only" for={`optin-email-${heading.length}`}>Email address</label>
+    <input
+      id={`optin-email-${heading.length}`}
+      type="email"
+      name="email_address"
+      required
+      placeholder="you@yourdomain.com"
+      class="flex-1 rounded-lg border-2 border-transparent bg-seasalt px-4 py-3 text-base text-jet placeholder:text-muted focus:border-accent focus:outline-none"
+    />
+    <button
+      type="submit"
+      class="rounded-lg bg-accent px-6 py-3 text-sm font-semibold text-seasalt transition-colors hover:bg-accent-light hover:text-primary md:text-base"
+    >
+      {buttonText} &rarr;
+    </button>
+  </form>
+
+  {!isWired && (
+    <p class="mt-3 text-xs italic text-seasalt/60">
+      Or join the <a href={SITE.social.skool} class="underline hover:text-accent-light">free Skool community</a> for now.
+    </p>
+  )}
+</aside>

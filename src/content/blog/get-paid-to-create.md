@@ -56,6 +56,11 @@ faq:
       evergreen asset. Pre-building defeats the purpose and pulls you back into
       the Double Creation Trap.
 heroImage: /covers/get-paid-to-create.png
+optIn:
+  lead: "Free 1-page playbook"
+  heading: "Want the Mid Ticket launch checklist?"
+  description: "A one-page sheet listing every step to launch a mid-ticket workshop in 7 days — pricing band, sales-page structure, ascension hook, and the cadence that makes it repeat. Drop your email and I'll send it."
+  buttonText: "Send me the checklist"
 ---
 
 A coach spent three months building a $497 course.

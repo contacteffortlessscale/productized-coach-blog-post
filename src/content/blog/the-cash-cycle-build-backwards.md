@@ -55,6 +55,11 @@ faq:
       offers that do not feed each other. Building in Cash Cycle order means the
       funnel is baked in from the start.
 heroImage: /covers/the-cash-cycle-build-backwards.png
+optIn:
+  lead: "Free map"
+  heading: "Want the Cash Cycle build order?"
+  description: "A one-page map showing the exact order to design your premium, mid-ticket, and micro offers so every dollar earned at the bottom already knows where it is going. Drop your email and I'll send it."
+  buttonText: "Send me the map"
 ---
 
 Most coaches build their business in this order.
