@@ -12,11 +12,6 @@ tags:
   - positioning
   - ai
   - mechanisms
-optIn:
-  lead: "Free worksheet"
-  heading: "Want the Category of One worksheet?"
-  description: "A one-page sheet with the three diagnostic questions and 12 named-mechanism examples from real coaching businesses. Drop your email and I'll send it."
-  buttonText: "Send me the worksheet"
 tldr: >-
   AI is making generic coaching free. The coaches who keep winning all have one
   trait — a Category of One — a single named mechanism their buyers use as the

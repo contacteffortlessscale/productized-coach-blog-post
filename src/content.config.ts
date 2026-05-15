@@ -23,14 +23,6 @@ const blog = defineCollection({
       )
       .optional(),
     youtubeId: z.string().optional(),
-    optIn: z
-      .object({
-        heading: z.string(),
-        description: z.string(),
-        buttonText: z.string().default('Send it to me'),
-        lead: z.string().optional(),
-      })
-      .optional(),
   }),
 });
 

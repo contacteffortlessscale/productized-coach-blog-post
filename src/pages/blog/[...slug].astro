@@ -192,14 +192,7 @@ const faqSchema = post.data.faq && post.data.faq.length > 0
           </section>
         )}
 
-        {post.data.optIn && (
-          <OptIn
-            heading={post.data.optIn.heading}
-            description={post.data.optIn.description}
-            buttonText={post.data.optIn.buttonText}
-            lead={post.data.optIn.lead}
-          />
-        )}
+        <OptIn />
 
         <RelatedPosts posts={related} />
 

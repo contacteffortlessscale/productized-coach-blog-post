@@ -59,11 +59,6 @@ faq:
       offers — it multiplies. The container model exists because the math
       finally caught up with the coaches doing it the hard way.
 heroImage: /covers/the-one-container-rule.png
-optIn:
-  lead: "Free diagnostic"
-  heading: "Are you running 3 businesses without knowing it?"
-  description: "A 5-minute audit that maps your current offers, communities, and support flows — then shows you the one container they should collapse into. Drop your email and I'll send it."
-  buttonText: "Send me the audit"
 ---
 
 You are running three businesses right now.
