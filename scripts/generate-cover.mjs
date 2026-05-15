@@ -45,6 +45,8 @@ const SUBJECT_OVERRIDES = {
     'A single tall, steady evergreen pine tree standing alone on a gentle hillside while smaller deciduous trees around it have lost their leaves. Subtle indicators of multiple seasons or time passing across the same scene. Conceptual visual metaphor for an ad that endures and keeps producing while everything else around it burns out.',
   'get-paid-to-create':
     'A minimalist composition showing a flow: on the left, a stack of coin-like circles or a payment receipt; in the center, an arrow or pathway; on the right, an open empty notebook page or microphone stand with light beaming onto it. The flow goes from payment to creation, not creation to payment. Conceptual visual metaphor for being paid before building.',
+  'business-should-be-boring':
+    'A minimalist geometric metronome rendered in clean editorial line work, with a slow horizontal swing of motion indicators tracing a steady predictable arc. Beside it, three or four identical small geometric markers arranged in a clean repeating sequence suggesting a steady cadence. Conceptual visual metaphor for predictable, boring, disciplined rhythm in a business.',
 };
 
 function buildPrompt(slug, frontmatter) {
