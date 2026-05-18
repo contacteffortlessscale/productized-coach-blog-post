@@ -47,6 +47,8 @@ const SUBJECT_OVERRIDES = {
     'A minimalist composition showing a flow: on the left, a stack of coin-like circles or a payment receipt; in the center, an arrow or pathway; on the right, an open empty notebook page or microphone stand with light beaming onto it. The flow goes from payment to creation, not creation to payment. Conceptual visual metaphor for being paid before building.',
   'business-should-be-boring':
     'A minimalist geometric metronome rendered in clean editorial line work, with a slow horizontal swing of motion indicators tracing a steady predictable arc. Beside it, three or four identical small geometric markers arranged in a clean repeating sequence suggesting a steady cadence. Conceptual visual metaphor for predictable, boring, disciplined rhythm in a business.',
+  'be-a-selfish-bastard':
+    'A clean geometric illustration showing a single bold confident arrow pointing in one direction, while six to eight smaller identical arrows behind it all point in the opposite direction. The single confident arrow leads. The crowd of arrows follows the safe path. Conceptual visual metaphor for trusting your own creative direction versus following what the audience asked for.',
 };
 
 function buildPrompt(slug, frontmatter) {
