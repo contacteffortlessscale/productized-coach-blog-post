@@ -4,6 +4,7 @@ subtitle: "Your first launch is not supposed to make money. It is supposed to pr
 description: "Most coaches kill a new offer when the first launch breaks even. They just killed the proof. Validation is not about profit. It is about three buyers a day."
 pubDate: 2026-05-19
 author: "Productized Coach Team"
+heroImage: /covers/three-buyers-a-day.png
 tags: ["productized coaching", "micro offers", "validation", "launching", "offer design"]
 tldr: "Most coaches judge a new offer by whether it made money on day one. So when the first launch breaks even, they panic and kill it — and kill the proof along with it. The first job of a launch is not profit. It is validation: can you get three strangers a day to buy from cold traffic on a low budget? Hit that, then add the order bumps and upsells that make it profitable."
 faq:
