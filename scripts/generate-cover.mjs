@@ -51,6 +51,8 @@ const SUBJECT_OVERRIDES = {
     'A clean geometric illustration showing a single bold confident arrow pointing in one direction, while six to eight smaller identical arrows behind it all point in the opposite direction. The single confident arrow leads. The crowd of arrows follows the safe path. Conceptual visual metaphor for trusting your own creative direction versus following what the audience asked for.',
   'three-buyers-a-day':
     'A clean minimalist illustration of exactly three identical small figures or coin-markers stepping onto a rising platform or path one after another, with a subtle upward trend line and a small proof checkmark. The emphasis is on the steady count of three, repeating daily. Conceptual visual metaphor for validating an offer by getting three steady buyers a day rather than chasing one big launch.',
+  'win-the-first-impression':
+    'A clean geometric illustration of a tall document or page where only the top few lines are brightly illuminated and crisp in dark forest green, while the rest of the page below fades softly into pale muted gray. A subtle beam of light or a minimalist eye shape focuses attention on the glowing top section. Conceptual visual metaphor for the first few lines mattering far more than the rest of the page.',
 };
 
 function buildPrompt(slug, frontmatter) {
