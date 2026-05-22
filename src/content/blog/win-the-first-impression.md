@@ -4,6 +4,7 @@ subtitle: "The first seven lines decide everything. That is where the work goes.
 description: "Coaches polish the product and rush the headline. The first seven lines decide whether anyone reads the rest. Here is where to actually spend your time."
 pubDate: 2026-05-21
 author: "Productized Coach Team"
+heroImage: /covers/win-the-first-impression.png
 tags: ["productized coaching", "copywriting", "sales pages", "headlines", "attention"]
 tldr: "Most coaches spend weeks on the product and an afternoon on the headline. They have the ratio backwards. A stranger decides 'is this for me' in about two seconds, before reading anything in full. The first seven lines carry that decision. A world-class product behind a weak first impression never gets seen."
 faq:
