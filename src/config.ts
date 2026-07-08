@@ -16,6 +16,6 @@ export const SITE = {
     skool: 'https://www.skool.com/sell-while-you-sleep/about',
     funnels: 'https://azfunnels.app',
   },
-  ogImage: '/logos/full-dark-green.svg',
+  ogImage: '/og/site-default.png',
   locale: 'en_US',
 } as const;
